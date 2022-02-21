@@ -8,12 +8,12 @@ int d1,m1,y1;
 
 void destination();
 void telangana();
-void france();
-void london();
-void sydney();
-void newyork();
-void tokyo();
-void shimla();
+void andhrapradesh();
+void goa();
+void karnataka();
+void maharashtra();
+void punjab();
+void tamilnadu();
 void print_details();
 void print_ticket(int [],int);
 void input(int,int );
