@@ -1,76 +1,74 @@
-# LPG GAS ACCIDENT PREVENTION WITH GSM ALERT 
-# DESCRIPTION: 
-➢ Now a days the home safety detection system plays the important role for the security of people. Since all the people from the home goes to work on daily bases, it makes Impossible to have check on the appliances available at home specially LPG gas cylinder, wired circuits, etc. whereas in industrial system it also makes difficult for the labours to keep the track of every second so to work on this problem. 
-The system is developed which will keep the track on various home appliances such as LPG gas cylinder, wired circuit, etc. this system uses MQ gas sensor to detect inflammable gas leakage and LM35 temperature sensor which will sense the sudden rise in temperature than above the room temperature. The objectives of this gas detectorusing Arduino is to sense the surroundings for occurrence of gas detector with help of LM35 temperature sensor and send 3 SMS alerts to two mobile numbers stored inside the Arduino program if gas is detected (using GSM Module). This makes easy for both the commercial as well as domestic sector to keep the track on problem faced on daily bases. This system effectively tracks the problems arises in day-to-day life.
+# Tourism Management
+------------------------------------------------------------------------
+# Introduction:
 
----------------------------------------------------------
-# REQUIREMENTS: 
-# High level requirements: 
-# Objective: 
-• In this project, I’m going to design a LPG Gas Accident prevention using 
-GSM & Arduino with SMS Alert. 
-• We will interface Sim800 GSM Module as well as MQ6Gas Sensor with 
-Arduino. 
-# Flexibility: 
-It is very simple and easy in installation. 
-# Life span: 
-Indefinite. 
-# Low level requirements: 
-i) MQ6 Gas Sensor.
+Tourism Management System is under an concept in which the project will be engaged and get managed with different fields accordingly for the things the managing directors expects. This Projects focuses in such a way that both the managing directors and the user gets proper benifits with respective of their time complexity and so on.
 
-ii) Arduino .
+The project titled "TOURISM MANAGEMENT SYSTEM" is generally an concept of managing and controlling the fields in Customers and the directors in an daily basis. This project "Tourism Management System" maily focuses with the adding module, listing out of different modules presents, Editing the module that are already presents.
 
-iii) regulated power supply.
+This project “Tourism management system” gives us the complete information about the records of the customers Travelling. With this project we can maintain the customers datas and information for our daily needs and also for the future purposes.
 
-iv) GSM modem.
+# Objectives:
 
-v) Buzzer. 
+The objective of the project is to develop a system that automates the processes and activities of a travel and tourism agency.
 
-vi)LCD display.
+The purpose is to design a system using which one can perform all operations related to traveling and sight-seeing.
 
-------------------------------------------------------
-# SWOT Analysis: 
-# Strengths: 
- Low-cost 
+# Benifits:
 
- Low power
+i)Record Maintenance.
 
- Light weight
+ii) Web-Based Solution.
 
- Portable
+iii) Saves Time and Cost.
 
- Safe
+iv) Secure and Reliable.
 
- User friendly 
+v) Increases Efficiency.
 
- Efficient
+vi) Simple and Easy to Use.
 
- Feasibility
+# 4W's And 1H
+# Who
+The Tourism Management system is an application used by the managerial directors for their customers Benifits.
 
- Simple system device
+# What
+The Tourism Management system is an software that helps to maintain a database which will be useful in adding, Listing out, Editing customers informations wisely.
 
-# Weaknesses: 
+# When
+This Tourism Managements system will be very useful When their occurs many customers comes with together may be of vacation holidays and so on.
 
- Applicable only as an indicator or alerting device. 
+# Where
+The Tourism Managements system is nowadays become more comfortable for mangerial directors as it reduces manual works more wisely and efficiently.
 
- Depends on humidity and temperature. 
+# How
+This project is implemented to do the costumer's datas adding, deleting or by editing the purpose to be gained by entering the managerial directors id as input.
 
-# Opportunities: 
+# SWOT Analysis:
+![swot](https://user-images.githubusercontent.com/100015127/154791395-1989ba75-8a80-4f0d-a0d2-0869c9faf7d8.jpg)
 
-Regional excellence attracts global talent.
+# Requirements:
+# High Level Requirements:
 
-# Threats:
-Economic crises.
+| RID | DESCRIPTION | STATUS |
+|:--:|:--------:|:----:|
+|HLR1|C Language|Implemented|
+|HLR2|OS Windows|Implemented|
+|HLR3|OS Linux|Implemented|
+|HLR4|Harddisk|Implemented|
+|HLR5|Ram 4GB|Implemented|
 
--------------------------------------------------------
-# 4W’S & 1H: 
-# Who: 
-Every household. 
-# What: 
-Installation of device. 
-# When: 
-At the time of installation of gas connection. 
-# Where: 
-Applicable to every household. 
-# How: 
-Locate near to the kitchen:
+# Low level Requirements:
+
+| RID | DESCRIPTION | STATUS |
+|:--:|:--------:|:----:|
+|LLR1|login module|Implemented|
+|LLR2|Add datas|Implemented|
+|LLR3|List datas|Implemented|
+|LLR4|Edit datas|Implemented|
+|LLR5|Delete datas|Implemented|
+
+
+
+
+
