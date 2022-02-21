@@ -7,7 +7,7 @@ int d,m,y;
 int d1,m1,y1;
 
 void destination();
-void italy();
+void telangana();
 void france();
 void london();
 void sydney();
