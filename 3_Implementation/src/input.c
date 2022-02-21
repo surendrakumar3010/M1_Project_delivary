@@ -4,13 +4,13 @@ void input(int cnt,int cno)
 	int pos=0,res;
 	switch(cno)
 	{
-		case 1:strcpy(i.destination,     "ITALY");break;
-		case 2:strcpy(i.destination,     "FRANCE");break;
-		case 3:strcpy(i.destination,     "LONDON");break;
-		case 4:strcpy(i.destination,    "SYDNEY" );break;
-		case 5:strcpy(i.destination,     "NEW_YORK");break;
-		case 6:strcpy(i.destination,     "TOKYO");break;
-		case 7:strcpy(i.destination,    "SHIMLA" );break;
+		case 1:strcpy(i.destination,     "TELANGANA");break;
+		case 2:strcpy(i.destination,     "ANDHRAPRADESH");break;
+		case 3:strcpy(i.destination,     "GOA");break;
+		case 4:strcpy(i.destination,    "KARNATAKA" );break;
+		case 5:strcpy(i.destination,     "MAHARASHTRA");break;
+		case 6:strcpy(i.destination,     "PUNJAB");break;
+		case 7:strcpy(i.destination,    "TAMILNADU" );break;
 	}
 	int x=0,id;
 	while(x<cnt)
