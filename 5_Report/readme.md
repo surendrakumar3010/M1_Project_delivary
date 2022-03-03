@@ -50,20 +50,17 @@ separately. The admins just have to click once and all the details will be avail
 to them.
 
 # FOLDER STRUCTURE
+| FOLDER | DESCRIPTION |
+|:---------:|:---------:|
+|0_Certificates | All manditory certificates submitted |
+|1_Requirements | Documents detailing requirements |
+|2_Architecture | Structural and Behavioural UML |
+|3_Implementation | All the code is written here |
+|4_TestPlanAndOutput | Documents with test plans and outputs |
+|5_Report | Generated Report |
+|6_ImagesandVideos |	All the images and program execution video |
 
- |0_Certificates|All manditory certificates submitted|
 
-|1_Requirements|Documents detailing requirements|
-
-|2_Architecture|Structural and Behavioural UML|
-
-|3_Implementation|All the code is written here|
-
-|4_TestPlanAndOutput|Documents with test plans and outputs|
-
-|5_Report|Generated Report|
-
-|6_ImagesandVideos|All the images and program execution video|
 
 # Challenges Faced and How Was It Overcome:
 
