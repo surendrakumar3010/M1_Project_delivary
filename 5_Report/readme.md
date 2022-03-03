@@ -152,6 +152,29 @@ This project is implemented to do the costumer's datas adding, deleting or by ed
 
 <img width="362" alt="a4" src="https://user-images.githubusercontent.com/100015127/154792343-ad67a5da-cc1f-4d7c-999d-7af2d8e542ee.PNG">
 
+# TEST PLAN 
+# High Level Test Plan
+| Test ID | Description | Expected I/P |
+|:--------:|:-----------:|:------------:|
+|HL1|LOGIN MODULES|CATEGORY,ID|
+|HL2|DELETE MODULES|CATEGORY,ID|
+|HL3|LIST MODULES|CATEGORY,ID|
+|HL4|SEARCH MODULES|CATEGORY,ID|
+|HL4|ADDED MODULES|CATEGORY,ID|
+|HL5|EDIT MODULES|CATEGORY,ID|
+
+# Low Level Test Plan
+| Test ID | Description |Expected I/P |
+|:--------:|:----------:|:------------:|
+|LLO1|LOGIN MODULE|CATEGORY, ID|
+|LL02|DELITING CUSTOMERS DATAS|CATEGORY,ID|
+|LL03|LIST OUT CUSTOMERS DATAS|CATEGORY,ID|
+|LL04|SEARCH OUT CUSTOMERS DATAS|CATEGORY,ID|
+|LL04|ADDING NEW CUSTOMERS DATAS|CATEGORY,ID|
+|LL05|EDIT EXISTING CUSTOMERS DATAS|CATEGORY,ID|
+
+
+
 
 
 
